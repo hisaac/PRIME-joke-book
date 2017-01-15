@@ -1,4 +1,8 @@
-##Node Express jQuery Code Challenge
+#Node Express jQuery Code Challenge
+
+This project was meant to exercise our use of logic on both the client and the server.
+
+---
 
 ### Objectives
 - Initialize and spin up a server side node/express application.
